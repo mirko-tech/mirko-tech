@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hey, I'm Mirko
 
 **AI Implementation Engineer** focused on building end-to-end intelligent systems:  
