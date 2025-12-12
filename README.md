@@ -16,22 +16,14 @@ I build **AI-first products fast** — from architecture → development → dep
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Project
 
-### 📌 [PsyTrade.ai — AI Multi-Agent Trading Mentor](https://github.com/mirko-tech/psytrade-ai)
-Multi-agent AI system that analyzes trading psychology, strategy compliance, performance, and journaling data.  
-Built with **React, Supabase (RLS/Auth), Node.js, OpenAI/Claude, embeddings, scoring pipelines**.
-
----
 
 ### 📌 [Local RAG Chatbot — AI Document Assistant](https://github.com/mirko-tech/local-rag-chatbot)
 Fully local RAG architecture using **FastAPI, Qdrant, Docker**, with ingestion pipelines, chunking, metadata extraction, and LLM-powered context retrieval.
 
 ---
-
-### 📌 [SecureCall — End-to-End Encrypted WebRTC Platform](https://github.com/mirko-tech/securecall-webrtc)
-Real-time communication platform with **secure video calls**, TURN/STUN servers, JWT auth, and encrypted signaling.
-
+More coming...
 ---
 
 ## 🧰 Tech Stack
